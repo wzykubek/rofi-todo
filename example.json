@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "name": "Push git changes",
+      "description": "Push changes from dotfiles to remote GitHub repo"
+    },
+    {
+      "name": "Stay in the cellar",
+      "description": "CoVID-19 etc."
+    },
+    {
+      "name": "Make README",
+      "description": "Make README.md file into rofi-todo repo"
+    }
+  ]
+}
