@@ -1,7 +1,7 @@
 # rofi-todo
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/samedamci/rofi-todo?logo=github&style=for-the-badge)
 ## Description
-Prototype script to manage JSON-style notes in rofi.
+Script to manage JSON-style notes in rofi.
 
 ### Features
 Function | Status
