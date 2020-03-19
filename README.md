@@ -21,12 +21,11 @@ pip3 install --user -r requirements
 ```
 
 ## Usage
-Actually rofi-todo don't support adding new notes directly. You must create JSON file ([example](https://duckduckgo.com)).
-
-Now you can specify path of your file as `-f` or `--file` argument for rofi-todo.
+You must specify path of your notes file as `-f` or `--file` argument for rofi-todo.
 ```bash
 python3 ./rofi-todo.py -f example.json 
 ```
+In this place you can view, add, and delete notes. You can also manual edit your JSON notes file.
 
 You can set key-binding for this script in your WM/DE config.
 
