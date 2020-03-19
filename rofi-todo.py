@@ -13,12 +13,16 @@ with open(args.file) as f:
     notes = json.load(f)
 
 titles = []
-for i in range(len(notes["notes"])):
-    titles.append(notes["notes"][i]["name"])
+def show_titles():
+    for i in range(len(notes["notes"])):
+        titles.append(notes["notes"][i]["name"])
 
 r = Rofi()
 
 while True:
+    titles = []
+    show_titles()
+
     index, key = r.select(
         "Notes",
         titles,
