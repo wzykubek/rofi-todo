@@ -6,8 +6,8 @@ Prototype script to manage JSON-style notes in rofi.
 ### Features
 Function | Status
 :--- | :---
-Add new notes | *todo*
-Delete notes | *todo*
+Add new notes | **avaible**
+Delete notes | **avaible**
 Read notes titles | **avaible**
 Read notes descriptions | **avaible**
 
